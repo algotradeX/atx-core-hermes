@@ -1,2 +1,2 @@
 # atx-core-order
-atx-core-order handles draft to order generation, order cancellation
+Order logic handler for draft to order generation, order cancellation
