@@ -29,7 +29,10 @@
 		<sonar.jacoco.reportPath>${project.basedir}/../target/jacoco.exec</sonar.jacoco.reportPath>
 		<sonar.language>java</sonar.language>
 
-
+		<sonar.projectKey>algotradeX_atx-core-hermes</sonar.projectKey>
+		<sonar.organization>algotradex</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>75a3759cd5d33594c897db42cf06a109be7e094b</sonar.login>
 	</properties>
 
 	<dependencies>
